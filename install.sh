@@ -30,7 +30,7 @@ services:
       VERSION: "10"
       USERNAME: "MASTER"
       PASSWORD: "admin@123"
-      RAM_SIZE: "4G"
+      RAM_SIZE: "16G"
       CPU_CORES: "4"
       DISK_SIZE: "400G"
       DISK2_SIZE: "100G"
