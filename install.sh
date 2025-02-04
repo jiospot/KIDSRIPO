@@ -75,7 +75,7 @@ WINDOWS_IP=$(docker inspect -f '{{range .NetworkSettings.Networks.windows_net}}{
 
 # Display Connection Info
 echo "--------------------------------------------------"
-echo "✅ Windows 10 Remote Desktop (RDP) is Ready! 🚀"
+echo "✅ Windows 10  Desktop  is Ready! 🚀"
 echo "📌 IP Address  : $WINDOWS_IP"
 echo "👤 Username    : MASTER"
 echo "🔑 Password    : admin@123"
