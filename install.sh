@@ -28,10 +28,10 @@ services:
     container_name: windows
     environment:
       VERSION: "10"
-      USERNAME: "MASTER"
+      USERNAME: "KIDS"
       PASSWORD: "admin@123"
-      RAM_SIZE: "4G"
-      CPU_CORES: "4"
+      RAM_SIZE: "8G"
+      CPU_CORES: "16"
       DISK_SIZE: "400G"
       DISK2_SIZE: "100G"
     devices:
