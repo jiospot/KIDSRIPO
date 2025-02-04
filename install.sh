@@ -31,7 +31,7 @@ services:
     container_name: windows
     environment:
       VERSION: "10"
-      USERNAME: "MASTER"
+      USERNAME: "KIDSSIR"
       PASSWORD: "admin@123"
       RAM_SIZE: "4G"
       CPU_CORES: "4"
